@@ -10,7 +10,7 @@ The Image Size Validation plugin handles blocking of image that are either too s
 
 {{<cmd>}}npm i filepond-plugin-image-validate-size --save{{</cmd>}}
 
-Now we can add the File Validate Type plugin to our project like this.
+Now we can add the Image Size Validation plugin to our project like this.
 
 ```js
 // Import FilePond
